@@ -4,3 +4,4 @@ np
 npm-check-updates
 yarn-tools
 ndb
+semantic-release-cli
