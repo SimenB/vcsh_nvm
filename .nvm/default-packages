@@ -2,6 +2,6 @@ jest
 npm
 np
 npm-check-updates
-yarn-tools
+yarn-deduplicate
 ndb
 semantic-release-cli
