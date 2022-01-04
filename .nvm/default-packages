@@ -3,5 +3,3 @@ npm
 np
 npm-check-updates
 yarn-deduplicate
-ndb
-semantic-release-cli
