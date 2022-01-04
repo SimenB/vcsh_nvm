@@ -3,3 +3,5 @@ npm
 np
 npm-check-updates
 yarn-deduplicate
+expo-cli
+eas-cli
